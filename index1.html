@@ -14,16 +14,6 @@
 </head>
 
 <body>
-    <div class="container d3_container">
-        <div class="row-fluid d3_unit">
-            <div class="span12" style="text-align:center;">
-                <div class="d3_name">Coming soon !!</div>
-                <div class="d3_text">
-                </div>
-            </div>
-        </div>
-    </div>
-
 
 	<div id="navbar" class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
@@ -35,7 +25,7 @@
 				</a>
 				<div class="nav-collapse">
 					<ul class="nav">
-						<li><a href="index.html" rel='tooltip' title="Home">Home</a></li>
+						<li class="active"><a href="index.html" rel='tooltip' title="Home">Home</a></li>
 						<li><a href="coming_soon.html" rel="tooltip" title="Profile">Profile</a></li>
 						<li><a href="coming_soon.html" rel="tooltip" title="Timeline">Timeline</a></li>
 						<li><a href="coming_soon.html" rel="tooltip" title="Blog">Blog</a></li>
@@ -48,6 +38,58 @@
 		</div>
 	</div>
 
+
+    <div class="container d3_container">
+        <div class="row-fluid d3_unit">
+            <div id="d3_content" class="span7 d3_content">
+            </div>
+            <div class="span5">
+                <div class="d3_name">Gautam Jeyaraman</div>
+                <div class="d3_text">
+                    <span class="dynamo" data-lines="Software Developer, Technology enthusiast" data-delay=1000ms data-speed=500ms>Passionate programmer</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+	
+    <div class="container me_container">
+        <div class="row-fluid">
+            <div class="span5 me_img">
+                <img src="static/img/me.png"/>
+            </div>
+            <div class="span7 me_content">
+                <div class="me_header">Hi, am Gautam</div>
+                <div class="me_body">I work in a <a href="http://www.tataatsu.com">startup</a> and I am passionate about technology.<br/> I love to build applications that can do awesome stuff.<br/> Other than programming, I like travelling, listening to music, watching movies and having fun with friends.</div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- NICE THAT YOU FOUND THIS -->
+    <!-- JUST REMOVE visibility:hidden AND SEE SOME AWESOME JAVASCRIPT MAGIC -->
+	<div class="container q_container">
+        <div class="row-fluid">
+            <div class="span12" id="canvas_container">
+                <canvas id="q_canvas" class="q_canvas"></canvas>
+                <div class="q_text"><i>“Programming is an art<br/>I am an artist”</i></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container ct_container">
+        <div class="row-fluid">
+            <div class="span11 offset1 ct_header">
+                Contact
+            </div>                
+        </div>
+        <div class="row-fluid ct_content">
+            <div class="span9 offset3">Phone:<span>+91 90 35 180238</span></div>
+        </div>
+        <div class="row-fluid ct_content">
+            <div class="span9 offset3"> Email:<span>gautamjeyaraman@gmail.com</span></div>
+        </div>
+    </div>
 
     <hr/>
 
