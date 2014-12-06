@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://gautamjeyaraman.com/sitemap.xml
+Sitemap: http://premanandchandrasekar.com/sitemap.xml

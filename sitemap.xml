@@ -5,22 +5,22 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://gautamjeyaraman.com/</loc>
+  <loc>http://premanandchandrasekar.com/</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://gautamjeyaraman.com/index.html</loc>
+  <loc>http://premanandchandrasekar.com/index.html</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://gautamjeyaraman.com/i_am.html</loc>
+  <loc>http://premanandchandrasekar.com/i_am.html</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://gautamjeyaraman.com/get_in_touch.html</loc>
+  <loc>http://premanandchandrasekar.com/get_in_touch.html</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
