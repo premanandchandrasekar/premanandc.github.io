@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Sitemap: http://premanandchandrasekar.com/sitemap.xml
+
+Sitemap: http://premanandc.com/sitemap.xml
